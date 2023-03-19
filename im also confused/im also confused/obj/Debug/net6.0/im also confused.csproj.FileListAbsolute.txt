@@ -1,0 +1,15 @@
+C:\Users\kirav\source\repos\im also confused\im also confused\bin\Debug\net6.0\im also confused.exe
+C:\Users\kirav\source\repos\im also confused\im also confused\bin\Debug\net6.0\im also confused.deps.json
+C:\Users\kirav\source\repos\im also confused\im also confused\bin\Debug\net6.0\im also confused.runtimeconfig.json
+C:\Users\kirav\source\repos\im also confused\im also confused\bin\Debug\net6.0\im also confused.dll
+C:\Users\kirav\source\repos\im also confused\im also confused\bin\Debug\net6.0\im also confused.pdb
+C:\Users\kirav\source\repos\im also confused\im also confused\obj\Debug\net6.0\im also confused.csproj.AssemblyReference.cache
+C:\Users\kirav\source\repos\im also confused\im also confused\obj\Debug\net6.0\im also confused.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirav\source\repos\im also confused\im also confused\obj\Debug\net6.0\im also confused.AssemblyInfoInputs.cache
+C:\Users\kirav\source\repos\im also confused\im also confused\obj\Debug\net6.0\im also confused.AssemblyInfo.cs
+C:\Users\kirav\source\repos\im also confused\im also confused\obj\Debug\net6.0\im also confused.csproj.CoreCompileInputs.cache
+C:\Users\kirav\source\repos\im also confused\im also confused\obj\Debug\net6.0\im also confused.dll
+C:\Users\kirav\source\repos\im also confused\im also confused\obj\Debug\net6.0\refint\im also confused.dll
+C:\Users\kirav\source\repos\im also confused\im also confused\obj\Debug\net6.0\im also confused.pdb
+C:\Users\kirav\source\repos\im also confused\im also confused\obj\Debug\net6.0\im also confused.genruntimeconfig.cache
+C:\Users\kirav\source\repos\im also confused\im also confused\obj\Debug\net6.0\ref\im also confused.dll
